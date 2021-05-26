@@ -1,6 +1,6 @@
 # wandikang-ml-ds
 
-List of papers and articles on **machine learning, deep learning, data science, and MLOps**.
+List of papers, articles, books, and libraries & frameworks on **machine learning, deep learning, data science, and MLOps**.
 
 TOC
 
@@ -17,6 +17,8 @@ TOC
 [Reinforcement Learning](#reinforcement-learning)
 
 [Data Engineering](#data-engineering)
+
+[Books](#books)
 
 [Libs & Tools](#libs--tools)
 
@@ -50,6 +52,21 @@ TOC
 
 * [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/) `facebook` `data-engineering`
 * [Using Apache Spark for large-scale language model training](https://engineering.fb.com/2017/02/07/core-data/using-apache-spark-for-large-scale-language-model-training/) `facebook` `data-engineering`
+
+## Books
+
+- [Dive into Deep Learning](https://d2l.ai/)
+- [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
+- [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
+- [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action)
+- [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning)
+- [Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+- [Probabilistic Deep Learning with Python](https://www.manning.com/books/probabilistic-deep-learning-with-python)
+- [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning)
+- [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go)
 
 ## Libs & Tools
 
