@@ -72,6 +72,7 @@ TOC
 
 * [TensorFlow](https://www.tensorflow.org/) `google`
 * [PyTorch](https://pytorch.org/) `facebook`
+* [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) `google`
 * [XGBoost](https://xgboost.readthedocs.io/en/latest/) `boosting`
 * [LightGBM](https://lightgbm.readthedocs.io/en/latest/) `boosting`
 * [Prophet](https://facebook.github.io/prophet/) `facebook` `forecasting`
